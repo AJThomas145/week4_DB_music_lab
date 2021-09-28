@@ -1,7 +1,7 @@
 class Album:
 
-    def __init__(self, title, genre, year, id = None):
+    def __init__(self, title, genre, artist, id = None):
         self.title = title
         self.genre = genre
-        self.year = year
+        self.artist = artist
         self.id = id
