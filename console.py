@@ -23,5 +23,4 @@ album_3 = Album("True Blue", "pop", artist_2)
 album_repository.save(album_3)
 
 
-
 pdb.set_trace()
