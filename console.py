@@ -22,5 +22,7 @@ album_repository.save(album_2)
 album_3 = Album("True Blue", "pop", artist_2)
 album_repository.save(album_3)
 
+artist_1.name = "Queen"
+artist_repository.update(artist_1)
 
 pdb.set_trace()

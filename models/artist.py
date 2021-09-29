@@ -4,11 +4,4 @@ class Artist:
         self.name = name
         self.id = id
 
-
-
-
-
-
-
-
-
+        
