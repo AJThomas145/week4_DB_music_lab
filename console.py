@@ -25,4 +25,7 @@ album_repository.save(album_3)
 artist_1.name = "Queen"
 artist_repository.update(artist_1)
 
+album_1.title = "Greatest Hits"
+album_repository.update(album_1)
+
 pdb.set_trace()
